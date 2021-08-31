@@ -1,0 +1,66 @@
+.nav-spacer{
+    flex:1 1 auto
+}
+
+.header{
+    display: flex;
+
+    a{
+        text-decoration: none;
+        padding: 15px;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+
+    button{
+        height: 32px;
+        margin: 8px;
+        margin-right: 16px;
+        background: rgb(66, 133, 244);
+    }
+
+    
+}
+
+img{
+    display: block;
+    margin-left: 830px;
+    margin-top: 200px;
+}
+
+form{
+    margin: auto;
+    width: 482px;
+        input{
+            width:100%;
+            border: 1px solid lightgray;
+            border-radius: 25px;
+            height: 40px;
+            
+        }
+
+    }
+
+.button-space{
+
+    margin-left: 24%;
+    button{
+
+        background: whitesmoke;
+        border: none;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    p{
+        margin-left: 48px;
+        font-size: 13.5px;;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+
+    }
+
